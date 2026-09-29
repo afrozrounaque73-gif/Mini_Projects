@@ -39,6 +39,6 @@ elif(select == 5):
 elif(select == 6):
     Power(num1, num2) 
 else:
-    print("Abe bewde shii number daal!")                      
+    print("Please enter correct number!")                      
                      
 
